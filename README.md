@@ -1,4 +1,4 @@
-<a href="#"><img width="1%" height="auto" src="astro.png" height="75px"/></a>
+<a href="#"><img width="11%" height="auto" src="astro.png" height="75px"/></a>
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akpale</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
