@@ -9,14 +9,14 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working on **[inviTours](https://github.com/didierbonga90/InviTours)**
+- 🔭 Working on **[DBTours](https://github.com/didierbonga90/DBTours)**
 
 - <img width="2.7%" height="auto" src="arduino.png" height="75px"/></a> Learning **Arduino** 
-<a href="#">
+<a href="https://www.arduino.cc/">
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://didierbonga.com)**
 
-- 📫 How to reach me **didi2moscow@gmail.com**
+- 📫 How to reach me **blouismarceldidier@yahoo.com**
 
 <br>
 <br>
@@ -51,6 +51,6 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/akpale-bonga-763904184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/akpale-didier-bonga-763904184/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 </p>
 
