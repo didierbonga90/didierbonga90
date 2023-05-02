@@ -11,8 +11,7 @@
 
 - 🔭 Working on **[DBTours](https://github.com/didierbonga90/DBTours)**
 
-- <img width="2.7%" height="auto" src="arduino.png" height="75px"/></a> Learning **Arduino** 
-<a href="https://www.arduino.cc/">
+- <img width="2.7%" height="auto" src="arduino.png" height="75px"/></a> Learning **[Arduino](https://www.arduino.cc/)** 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://didierbonga.com)**
 
