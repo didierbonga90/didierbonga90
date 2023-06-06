@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working on **[Exploria](https://github.com/didierbonga90/DBTours)**
+- 🔭 Working on **[Exploria](https://github.com/didierbonga90/Exploria/tree/main)**
 
 - <img width="2.7%" height="auto" src="arduino.png" height="75px"/></a> Learning **[Arduino](https://www.arduino.cc/)** 
 
