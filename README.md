@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://didierbonga.com)**
 
-- 📫 Reach me at **blouismarceldidier@yahoo.fr**
+- 📫 Reach me at **didierbonga.a@gmail.com**
 
 <br>
 <br>
