@@ -1,4 +1,6 @@
 <a href="#"><img width="11%" height="auto" src="astro.png" height="75px"/></a>
+![avengers](https://github.com/didierbonga90/didierbonga90/assets/105931207/ef88e531-8dca-46d9-a326-e712490d86d0)
+
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akpale Didier</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
@@ -11,7 +13,7 @@
 
 - 🔭 Working on **[Exploria](https://github.com/didierbonga90/Exploria/tree/main)**
 
-- <img width="2.7%" height="auto" src="arduino.png" height="75px"/></a> Learning **[Arduino](https://www.arduino.cc/)** 
+- <img width="2.3%" height="auto" src="arduino.png" height="70px"/></a> Learning **[Arduino](https://www.arduino.cc/)** 
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://didierbonga.com)**
 
@@ -24,7 +26,6 @@
 
 <p align="left">
             <a href="https://go.dev/" target="_blank"> <img src="golang.png"/> </a> 
-        <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> 
     </a>    
@@ -33,7 +34,10 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>   
             <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' width="48" height="48">
+        <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
+            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' width="48" height="48">
     <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>
+            <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg' width="48" height="48">
     <a href="https://git-scm.com/" target="_blank"> <img src="git.png"/> </a>   
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg' width="48" height="48">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg' width="48" height="48">
