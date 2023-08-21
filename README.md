@@ -1,6 +1,4 @@
 <a href="#"><img width="11%" height="auto" src="astro.png" height="75px"/></a>
-![avengers](https://github.com/didierbonga90/didierbonga90/assets/105931207/ef88e531-8dca-46d9-a326-e712490d86d0)
-
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akpale Didier</h1>
 <h3 align="center">I'm a Full Stack Developer</h3>
