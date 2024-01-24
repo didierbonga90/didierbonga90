@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Working on **[Exploria](https://github.com/didierbonga90/Exploria/tree/main)**
+- 🔭 Working on **[King's Closet](https://github.com/didierbonga90/Kings-Closet)**
 
 - <img width="2.3%" height="auto" src="arduino.png" height="70px"/></a> Learning **[Arduino](https://www.arduino.cc/)** 
 
